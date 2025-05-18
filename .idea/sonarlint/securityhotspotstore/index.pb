@@ -9,3 +9,5 @@ V
 &contracts/authentication-protocol.clar,f/2/f2976aa6d8b1cee1981804335774cc5c4af88d18
 Q
 !contracts/cross-domain-trust.clar,c/1/c19b0635a11acc865c90d38f6711c4e7bd46ee53
+P
+ contracts/identity-provider.clar,7/4/748f7cc11c4a077faaa05d43dfb84e314c0de785
