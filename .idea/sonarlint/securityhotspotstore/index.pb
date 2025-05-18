@@ -7,3 +7,5 @@ J
 contracts/audit-trail.clar,b/6/b6671a06cd13e1dc7096347f063b75b96e221363
 V
 &contracts/authentication-protocol.clar,f/2/f2976aa6d8b1cee1981804335774cc5c4af88d18
+Q
+!contracts/cross-domain-trust.clar,c/1/c19b0635a11acc865c90d38f6711c4e7bd46ee53
